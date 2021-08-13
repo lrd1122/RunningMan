@@ -1,0 +1,16 @@
+#消息前缀
+Prefix: "RunningMan"
+#有关玩家游玩的消息
+GameHasStart: "&c游戏 <Map> 已经开始,你无法再进入游戏"
+GameHasFull: "&c游戏 <Map> 人数已满"
+PlayerJoinGame: "&a玩家 &b<player>&a 加入了游戏,目前人数 <number> 人"
+NotInGame: "&c你不在游戏中!"
+ExitGame: "&a你退出了游戏!"
+NoBreak: "&c你无法破坏方块!"
+NoBuild: "&c你无法放置方块!"
+#有关制作地图的消息
+CreateMap: "&a你创建了一张新的地图 <Map>"
+DeleteMap: "&a你删除了一张地图 <Map>"
+MapExist: "&c地图已存在!"
+MapNotFound: "&c没有找到地图 <Map>"
+DeleteBlockSuccess: "&a你成功的删除了一个特殊方块"

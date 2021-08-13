@@ -1,0 +1,4 @@
+#游戏开始倒数时间
+CountDown: 60
+#主大厅的位置
+MainLobbyLocation: world,0,0,0
