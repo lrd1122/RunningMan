@@ -1,0 +1,9 @@
+name: RunningMan
+version: @version@
+author: [ lrd1122 ]
+main: gx.lrd1122.RunningMan
+commands:
+  runningman:
+    description: runningman
+    usage: /<command>
+    aliases: rman

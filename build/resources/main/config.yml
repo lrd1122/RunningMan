@@ -1,0 +1,27 @@
+#游戏�?始�?�数时间
+CountDown: 60
+#主大厅的位置
+MainLobbyLocation: world,0,0,0
+#大厅�?关PVP
+PVPInLobby: true
+#游戏中开关PVP
+PVPInGame: false
+#移除�?有受伤�?�成的伤�?
+RemoveDamage: true
+#锁定饱食度为满格
+LockHunger: true
+#移除天气变化
+NoWeather: true
+Bungeecord: true
+FallBackServer: "lobby"
+AutoJoin: "nether"
+#游戏道具
+GameTools:
+  #惩罚�?
+  PunishStick: true
+  #惩罚�?
+  PunishBow: true
+  #疾风萝卜
+  SpeedCarrot: true
+  #僵尸肉干
+  RottenFlesh: true
